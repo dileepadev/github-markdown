@@ -27,8 +27,9 @@ Hello everyone! I am starting to contribute to this repository with discoverable
   5. - [x] License
   6. - [ ] Issue templates
   7. - [ ] Pull request template
-- [ ] Widget directory
+- [x] Widget directory
 - [ ] Updated README.md
+- [ ] Custom Domain
 - [ ] Release Structure
 
 ## 📸 Icons and Images
