@@ -21,8 +21,7 @@
 
 ### 🌄 Light
 
-<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/android-studio.png" width="64"/>
-<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/appwrite.png" width="64"/>
+<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/android-studio.png" width="64"/><img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/appwrite.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/bootstrap.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/c.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/light/canva.png" width="64"/>
@@ -75,8 +74,7 @@
 
 ### 🌃 Dark
 
-<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/android-studio.png" width="64"/>
-<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/appwrite.png" width="64"/>
+<img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/android-studio.png" width="64"/><img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/appwrite.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/bootstrap.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/c.png" width="64"/>
 <img src="https://dileepabandara.github.io/github-markdown/widgets/tools/dark/canva.png" width="64"/>
