@@ -26,7 +26,7 @@ Hello everyone! I am starting to contribute to this repository with discoverable
   4. - [ ] Contributing
   5. - [x] License
   6. - [ ] Issue templates
-  7. - [ ] Pull request template
+  7. - [x] Pull request template
 - [x] Widget directory
 - [ ] Updated README.md
 - [ ] Custom Domain
