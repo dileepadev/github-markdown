@@ -22,7 +22,7 @@ Hello everyone! I am starting to contribute to this repository with discoverable
 - [ ] Community Standards
   1. - [x] Description
   2. - [x] README
-  3. - [ ] Code of conduct
+  3. - [x] Code of conduct
   4. - [ ] Contributing
   5. - [x] License
   6. - [ ] Issue templates
